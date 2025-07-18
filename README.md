@@ -21,4 +21,4 @@ Email: philip.chen@ieee.org
    [1] Tao Chen, Lijie Wang and C. L. Philip Chen, "Multi-Output Broad Learning System via Matrix-Similarity Measures," xxxxxxx.
 
  
-If you have any questions, please do not hesitate to contact the first author or leave a message on the author's homepage (https://www.chentaohmm.cn/).
+If you have any questions, please do not hesitate to contact the first author or leave a message on the first author's homepage (https://www.chentaohmm.cn/).
